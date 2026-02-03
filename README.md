@@ -6,9 +6,9 @@ This repository provides a complete suite of tools implementing the TOPSIS (Tech
 
 ## Project Information
 
-Student Name-Tnisha
-Roll Number-102303951
-Group-3C65
+- Student Name-Tnisha
+- Roll Number-102303951
+- Group-3C65
 
 ---
 
