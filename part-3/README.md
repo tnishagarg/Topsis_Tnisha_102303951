@@ -15,9 +15,9 @@ A web interface that processes files and sends results via email.
 
 ## Screenshots
 ### Web Interface (Part 3)
-![Form Screenshot](./part-3/screenshot_form.png)
+![Form Screenshot](screenshot_form.png)
 
 ### Email/Success Output
-![Success Screenshot](./part-3/screenshot_success.png)
+![Success Screenshot](screenshot_success.png)
 
 ---
