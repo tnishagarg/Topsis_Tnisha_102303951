@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: Topsis-Tnisha-102303951
+Version: 1.0.5
+Summary: A Python package for TOPSIS decision making
+Author: Tnisha
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: summary
+
+# TOPSIS Python Package
+
+This package implements the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method.
+
+## Installation
+```bash
+pip install Topsis-Tnisha-102303951

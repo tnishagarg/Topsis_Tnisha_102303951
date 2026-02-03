@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = topsis_tnisha_102303951.topsis:main
