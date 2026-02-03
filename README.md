@@ -4,7 +4,7 @@ This repository provides a complete suite of tools implementing the TOPSIS (Tech
 
 ---
 
-## Project Information
+### Project Information
 
 - Student Name-Tnisha
 - Roll Number-102303951
@@ -12,7 +12,7 @@ This repository provides a complete suite of tools implementing the TOPSIS (Tech
 
 ---
 
-## 📌 Sample Input File (IMPORTANT)
+### Sample Input File 
 
 Create a file named **`data.csv`** in the same folder as `topsis.py` and paste the following content:
 
